@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TEC9SJFD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F8TEC9SJFD');
+</script>
+
 # Правила для членов гильдии
 #### У вас должен быть максимум городов (он зависит от уровня вашего замка). В первую очередь берите города с полезными для гильдии бонусами.
 Полезные бонусы:
