@@ -1,4 +1,12 @@
-{% include /analytics.md %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TEC9SJFD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F8TEC9SJFD');
+</script>
 [English version](/README.en.md)
 # Кто мы
 Мы топовая гильдия на русском сервере Idle Big Devil.
