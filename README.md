@@ -1,3 +1,4 @@
+{% include /analytics.md %}
 [English version](/README.en.md)
 # Кто мы
 Мы топовая гильдия на русском сервере Idle Big Devil.
