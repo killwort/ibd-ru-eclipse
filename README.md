@@ -13,5 +13,5 @@
 1. Ознакомился с [правилами](/rules.md)
 
 # Гайды
-* [Мини-гайды](/miniguides.md) - разные аспекты игры и решение некоторых проблем
-* [Snowland & Explorers](/snx.md)
+* [Мини-гайды](/guides/miniguides.md) - разные аспекты игры и решение некоторых проблем
+* [Snowland & Explorers](/guides/snx/README.md)
